@@ -61,7 +61,7 @@ comando: git clone https://github.com/seu-usuario/gestor-financeiro.git
 Comando: dotnet restore
 
 4º passo
-- dotnet run
+Execute o comando: dotnet run
 
 5º passo 
 - http://localhost:8080
