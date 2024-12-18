@@ -26,9 +26,9 @@ Gerar relatórios detalhados para análise financeira por períodos.
 
 ## Banco de dados
 
--Criação do Banco de Dados
--Criação das Tabelas: PlanoConta, Transacao
--Consultas de exemplo
+- Criação do Banco de Dados
+- Criação das Tabelas: PlanoConta, Transacao
+- Consultas de exemplo
 
 Para criar o banco e as tabelas, execute os scripts em um servidor SQL Server local:
 
