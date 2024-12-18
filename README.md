@@ -16,7 +16,7 @@ Gerar relatórios detalhados para análise financeira por períodos.
 
 - Framework Backend: ASP.NET Core MVC
 - Banco de Dados: SQL Server
-- Frontend: Razor  HTML5 / CSS3
+- Frontend: HTML5 / CSS3 / JS
 
 
 ## Arquitetura Utulizada
