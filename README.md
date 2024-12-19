@@ -32,9 +32,9 @@ Gerar relatórios detalhados para análise financeira por períodos.
 
 Para criar o banco e as tabelas, execute os scripts em um servidor SQL Server local:
 
-1º - Abra o SQL Server Management Studio (SSMS).
-2º - Execute o arquivo de script SQL encontrado em BDSQLSERVER.
-3º - Verifique a criação das tabelas no banco de dados.
+- 1º - Abra o SQL Server Management Studio (SSMS).
+- 2º - Execute o arquivo de script SQL encontrado em BDSQLSERVER.
+- 3º - Verifique a criação das tabelas no banco de dados.
 
 ## Como Executar o Projeto
 
